@@ -30,7 +30,6 @@ LOG_CHANNEL - channel to log status changes
 -   Douile  [https://github.com/Douile](https://github.com/Douile)
 -   drazero  [https://github.com/draZer0](https://github.com/draZer0)
 -   Queue script:  [https://github.com/anderscripts/FiveM_Queue](https://github.com/anderscripts/FiveM_Queue)
+-   Luv [ https://github.com/LuvArora-coder ]
 
-## Proof
 
-[Click Here](https://cdn.discordapp.com/attachments/817543818055254016/844177968553394226/unknown.png)
